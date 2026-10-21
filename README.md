@@ -30,7 +30,7 @@ Controle e animação de LEDs piscando em sequência.
 
 ### ☀️ LEDs com Sensor LDR
 Controle de iluminação inteligente acionado pela luminosidade ambiente usando sensor LDR.
-![Circuito LEDs com Sensor LDR](leds-sensor%20LDR/circuito.png)
+![Circuito LEDs com Sensor LDR](leds-sensor%20LDR/Leds%20com%20sensor%20LDR.png)
 
 ## 🛠️ Tecnologias e Ferramentas
 * Arduino (C++)
