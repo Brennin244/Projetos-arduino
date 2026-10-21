@@ -26,6 +26,12 @@ Semáforo integrado com controle de travessia para pedestres.
 Controle e animação de LEDs piscando em sequência.
 ![Circuito LEDs Sequenciais](leds-sequenciais/leds%20sequenciais.png)
 
+---
+
+### ☀️ LEDs com Sensor LDR
+Controle de iluminação inteligente acionado pela luminosidade ambiente usando sensor LDR.
+![Circuito LEDs com Sensor LDR](leds-sensor%20LDR/circuito.png)
+
 ## 🛠️ Tecnologias e Ferramentas
 * Arduino (C++)
 * Tinkercad (Simulação dos circuitos)
