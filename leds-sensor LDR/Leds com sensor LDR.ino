@@ -4,23 +4,19 @@ const int led2 = 7;
 const int led3 = 8;
 const int led4 = 11;
 const int led5 = 10;
-//const int led6 = 9;
 
 const int ldr = A0;
 
-//int leds[] = {led1, led2, led3, led4, led5, led6};
 int leds[] = {led1, led2, led3, led4, led5};
 
 int valorLdr = 0;
 int quantidadeLeds = 0;
 
-// Ajuste esses valores conforme a luminosidade do ambiente
 int limite1 = 850;
 int limite2 = 750;
 int limite3 = 650;
 int limite4 = 550;
 int limite5 = 250;
-//int limite6 = 350;
 
 void setup() {
   Serial.begin(9600);
@@ -52,9 +48,7 @@ void loop() {
   else if (valorLdr >= limite5) {
     quantidadeLeds = 4;
   }
-  //else if (valorLdr >= limite6) {
-    //quantidadeLeds = 5;
-  //}
+
   else {
     quantidadeLeds = 5;
   }
