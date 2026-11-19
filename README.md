@@ -1,4 +1,4 @@
-# Projetos de Arduino 
+# Projetos de Arduino 🤖
 
 Repositório criado para guardar os códigos de automação e circuitos desenvolvidos durante a faculdade.
 
@@ -17,7 +17,12 @@ Repositório criado para guardar os códigos de automação e circuitos desenvol
 | 🎛️ LEDs com Potenciómetro | 🌡️ Potenciómetro e Temperatura |
 | :---: | :---: |
 | ![LEDs com Potenciómetro](leds-potenciometro/leds%20potenciometro.png) | ![Controlo de Temperatura](potenciomentro-controle-de-temperatura/potenciomentro%20controle%20de%20temperatura.png) |
-| *Controle manual de intensidade/velocidade dos LEDs.* | *Controle e monitorização simulada de temperatura.* |
+| *Controlo manual de intensidade/velocidade dos LEDs.* | *Controlo e monitorização simulada de temperatura.* |
+
+| 🚨 Sistema de Alarme | 🔘 LED 2 Modos |
+| :---: | :---: |
+| ![Sistema de Alarme](alarme/alarme.png) | ![LED 2 Modos](Led%202%20modos/Led%202%20modos.png) |
+| *Circuito de alerta com acionamento de alarme.* | *Alternância entre dois modos de funcionamento dos LEDs.* |
 
 ---
 
