@@ -21,7 +21,7 @@ Repositório criado para guardar os códigos de automação e circuitos desenvol
 
 | 🚨 Sistema de Alarme | 🔘 LED 2 Modos |
 | :---: | :---: |
-| ![Sistema de Alarme](alarme/alarme.png) | ![LED 2 Modos](Led%202%20modos/Led%202%20modos.png) |
+| ![Sistema de Alarme](alarme/alarme.png) | ![LED 2 Modos](led-automatico-e-manual/Led%202%20modos.png) |
 | *Circuito de alerta com acionamento de alarme.* | *Alternância entre dois modos de funcionamento dos LEDs.* |
 
 ---
